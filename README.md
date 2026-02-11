@@ -73,5 +73,18 @@ javac *.java
 Execute
 java HtmlAnalyzerApp https://example.com
 
-A calculated structural complexity metric based on:
+### Example output
+===== HTML STRUCTURAL ANALYSIS =====
+Max Depth: 12
+Total Tags: 143
+Unique Tags: 18
+Leaf Nodes: 47
+Average Depth: 6.23
+Total Text Nodes: 47
+Complexity Score: 198.45
 
+Tag Frequency:
+div: 34
+a: 22
+span: 18
+...
