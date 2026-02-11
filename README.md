@@ -72,7 +72,7 @@ javac *.java
 
 Execute
 java HtmlAnalyzerApp https://example.com
-
+```
 ### Example output
 ===== HTML STRUCTURAL ANALYSIS =====
 Max Depth: 12
